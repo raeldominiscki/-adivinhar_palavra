@@ -1,5 +1,3 @@
-# -adivinhar_palavra
-
 import random 
 word_list = [ 'soneca', 'scooby', 'carro', 'casa', 'carruagem', 'predio', 'edificio', 'prancha', 'surfista', 'volei', 'atleta']
 
